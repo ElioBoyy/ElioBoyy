@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-| En-tête 1 | En-tête 2 | En-tête 3 |
+|  |  |  |
 |-----------|-----------|-----------|
 | ![vuejs](https://d2gbo5uoddvg5.cloudfront.net/images/modules/vue.gif) | ![react](https://i.giphy.com/media/RJzm826vu7WbJvBtxX/giphy.webp) | ![js](https://media.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif) |
