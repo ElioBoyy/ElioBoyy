@@ -31,7 +31,7 @@
   <img
     style="height: 250px"
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=elioboyy&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=elioboyy&show_icons=true&theme=merko&locale=en&layout=compact"
     alt="elioboyy"
   />
 </p>
