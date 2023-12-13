@@ -1,3 +1,7 @@
+<img
+  src="https://i.pinimg.com/originals/98/eb/66/98eb66bb1bd8d5be535b4b9aef861eb2.gif"
+  style="position: fixed; z-index: -1"
+/>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mathis-sportiello" target="blank"
@@ -27,30 +31,20 @@
 </p>
 
 <h3>Some of my GitHub stats :</h3>
-<div
-  style="
-    position: relative;
-    width: 100%;
-    display: flex;
-    justify-content: space-evenly;
-    height: 250px;
-  "
->
-  <p>
-    <img
-      style="height: 100%"
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=elioboyy&show_icons=true&locale=en&layout=compact"
-      alt="elioboyy"
-    />
-  </p>
+<p>
+  <img
+    style="height: 250px"
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=elioboyy&show_icons=true&locale=en&layout=compact"
+    alt="elioboyy"
+  />
+</p>
 
-  <p>
-    <img
-      style="height: 100%"
-      align="center"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=elioboyy&"
-      alt="elioboyy"
-    />
-  </p>
-</div>
+<p>
+  <img
+    style="height: 250px"
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=elioboyy&"
+    alt="elioboyy"
+  />
+</p>
