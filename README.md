@@ -31,7 +31,7 @@
   <img
     style="height: 250px"
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=elioboyy&show_icons=true&theme=dracula&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=elioboyy&show_icons=true&theme=radical&locale=en&layout=compact"
     alt="elioboyy"
   />
 </p>
@@ -40,7 +40,7 @@
   <img
     style="height: 250px"
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=elioboyy&"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=elioboyy&theme=radical"
     alt="elioboyy"
   />
 </p>
