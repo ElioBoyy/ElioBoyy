@@ -1,22 +1,3 @@
-<style>
-  .image-container {
-    position: relative;
-  }
-
-  .image {
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    transition: opacity 0.5s ease-in-out;
-  }
-
-  #image1:hover + #image2,
-  #image2:hover + #image1 {
-    opacity: 1;
-  }
-</style>
-
 <h3 align="left">Connect with me :</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mathis-sportiello" target="blank"
